@@ -1,0 +1,25 @@
+{
+	"LaunchManager": {
+		"Configurations": [
+			{
+				"MainPlugin": "Sample.103_GamePlugin",
+				"Name": "Launch Sample 103"
+			},
+			{
+				"MainPlugin": "Builtin.SceneViewer",
+				"Name": "View Current Scene"
+			},
+			{
+				"MainPlugin": "Sample.113_InputLogger",
+				"Name": "Launch Sample 113"
+			}
+		]
+	},
+	"PluginManager": {
+		"LoadedPlugins": [
+			"Sample.103_GamePlugin",
+			"Sample.113_InputLogger",
+			"Builtin.SceneViewer"
+		]
+	}
+}

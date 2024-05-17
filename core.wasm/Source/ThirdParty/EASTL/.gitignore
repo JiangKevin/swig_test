@@ -1,0 +1,14 @@
+/doc/
+
+/test/CMakeLists.txt
+/test/source/
+
+/test/packages/EAMain/
+/test/packages/EATest/
+/test/packages/EAThread/
+
+/test/packages/*/.gitmodules
+/test/packages/*/.travis.yml
+/test/packages/*/CMakeLists.txt
+/test/packages/*/doc/
+/test/packages/*/test/
